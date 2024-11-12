@@ -13,7 +13,6 @@
     "item.IItemExtensionMixin",
     "item.ItemStackMixin",
     "network.StreamCodecMixin",
-    "recipebook.RecipeBookManagerMixin",
     "registries.DataPackRegistriesHooksAccessor",
     "registries.MappedRegistryAccessor",
     "registries.NeoForgeRegistriesSetupAccessor",
@@ -34,6 +33,7 @@
     "client.ParticleEngineMixin",
     "recipebook.RecipeBookCategoriesAccessor",
     "recipebook.RecipeBookCategoriesMixin",
+    "recipebook.RecipeBookManagerMixin",
     "registries.ItemBlockRenderTypesMixin"
   ],
   "server": [
